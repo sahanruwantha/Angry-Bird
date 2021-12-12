@@ -1,0 +1,18 @@
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\bin\Debug\Angry Bird.exe.config
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\bin\Debug\Angry Bird.exe
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\bin\Debug\Angry Bird.pdb
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry Bird.csproj.AssemblyReference.cache
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry_Bird.Form1.resources
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry_Bird.Properties.Resources.resources
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry Bird.csproj.GenerateResource.cache
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry Bird.csproj.CoreCompileInputs.cache
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry Bird.exe
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry Bird.pdb
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry_Bird.Loadgamewindow.resources
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry_Bird.About.resources
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\bin\Debug\Angry Bird.exe.manifest
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\bin\Debug\Angry Bird.application
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry Bird.exe.manifest
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry Bird.application
+C:\Users\sahan\Documents\Angry Bird\Angry Bird\obj\Debug\Angry_Bird.Highesscore.resources
